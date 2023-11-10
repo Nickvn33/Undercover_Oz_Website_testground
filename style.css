@@ -7,7 +7,7 @@
 
 body:before {
     content: "";
-    background-image: url("IMG_1420.avif");
+    background-image: url("IMG_1420.webp");
     position: absolute;
     background-size: cover;
     top: 0;
